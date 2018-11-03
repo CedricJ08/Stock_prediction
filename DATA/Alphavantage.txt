@@ -1,0 +1,4 @@
+API KEY / ACAZK7H8AYZVKZBV
+
+
+https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=MSFT&outputsize=full&datatype=csv&apikey=ACAZK7H8AYZVKZBV
